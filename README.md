@@ -1,2 +1,2 @@
 # reactive-frontend-journal
-A dynamic journal capturing continuous learnings, experiments, and best practices in front-end development with a special focus on React, React Native, and modern JavaScript.
+A dynamic journal capturing continuous learnings, experiments, and best practices in front-end development with a special focus on React, React Native, and modern JavaScript. This repository serves as a personal log for documenting real-world problem solving, performance optimization, and technical deep dives. Designed to be an evolving resource, it includes insights from daily development, interview prep, project explorations, and cutting-edge React ecosystem trends to help developers stay reactive and up-to-date in their craft
